@@ -16,7 +16,7 @@ namespace ctc225Lab
                 {
                     Console.WriteLine("(" + i + "," + j + ")");
                 }
-                Console.WriteLine();
+                Console.WriteLine("Next Line");
             }
         }
     }
